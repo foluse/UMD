@@ -39,9 +39,14 @@ Here is a sample output from the 2020 Playoffs:
 Repeat for the 2021 and 2022 playoff seasons.
 
 Step 2: Display the data
-Create a bar graph using three point percentage of each of the 16 playoff teams for each year we're observing. Observe the champion of that year by creating some type of destinction in its bar on the graph. How does it compare to the rest of the playoff teams? Create a linear regression line as well.
+Create a bar graph using three point percentage of each of the 16 playoff teams for each year we're observing. Observe the champion of that year by creating some type of destinction in its bar on the graph. 
 
 Do the same thing with ORB (Offensive Rebounds), FG (Field Goal %), TOV (Turnovers), Points, and PF (Personal Fouls)
+
+This image is prior to finding the linear regression line, that should be plotted after displaying the data in the image. 
 ![image](https://github.com/foluse/UMD/assets/76791730/f44a3dcd-961a-4795-97c4-f790244c7628)
+
+### Analysis Question 1:
+How does the championship team compare to the rest of the playoff teams? Create a linear regression line as well.
 
 
