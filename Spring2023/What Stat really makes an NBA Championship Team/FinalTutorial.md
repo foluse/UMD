@@ -44,7 +44,7 @@ Create a bar graph using three point percentage of each of the 16 playoff teams 
 Do the same thing with ORB (Offensive Rebounds), FG (Field Goal %), TOV (Turnovers), Points, and PF (Personal Fouls)
 
 This image is prior to finding the linear regression line, that should be plotted after displaying the data in the image. 
-![image](https://github.com/foluse/UMD/assets/76791730/f44a3dcd-961a-4795-97c4-f790244c7628)
+![3pt Percent Output](https://github.com/foluse/UMD/assets/76791730/7e4634a1-36dd-4399-a43e-1471db3f7bbb)
 
 ### Analysis Question 1:
 How does the championship team compare to the rest of the playoff teams? Create a linear regression line as well.
