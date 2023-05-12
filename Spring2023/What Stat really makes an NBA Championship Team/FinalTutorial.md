@@ -51,6 +51,7 @@ This image is prior to finding the linear regression line, that should be plotte
 
 ## Part 2: Regression and Analysis
 Now let's look at the data with a fitted regression line. For each statistic, create a scatter plot to see trends in various statistics for each of the last three playoff years.
+
 ![output](https://github.com/foluse/UMD/assets/76791730/f8a1bef1-d249-47f2-8c53-83270fc3b72d)
 
 #### Question 3: Now looking at the regression lines, what can we verify about the comments we made in the previous part? 
