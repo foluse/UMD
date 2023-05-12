@@ -46,11 +46,15 @@ Do the same thing with ORB (Offensive Rebounds), FG (Field Goal %), TOV (Turnove
 This image is prior to finding the linear regression line, that should be plotted after displaying the data in the image. 
 ![2020 3pt percentage](https://github.com/foluse/UMD/assets/76791730/7c9c4dd4-fff0-4d5c-90d0-2e58f80fb47d)
 
-### Question 1: What is a general trend you notice about the data?
-### Question 2: Looking at the data, create an interpretation for the pattern you noted for the previous question. For example, turnovers in each year decrease as we supposedly go down in ranking (meaning the supposed "best team" has the most turnovers)?
+#### Question 1: What is a general trend you notice about the data?
+#### Question 2: Looking at the data, create an interpretation for the pattern you noted for the previous question. For example, turnovers in each year decrease as we supposedly go down in ranking (meaning the supposed "best team" has the most turnovers)?
 
 ## Part 2: Regression and Analysis
-Now let's look at the data with a fitted regression line for each scatter plot to see trends in various statistics for each of the last three playoff years.
+Now let's look at the data with a fitted regression line. For each statistic, create a scatter plot to see trends in various statistics for each of the last three playoff years.
+
+#### Question 3: Now looking at the regression lines, what can we verify about the comments we made in the previous part? 
+#### Question 4: How do you think we can we determine the most valuable statistic (guess)?
+
 
 ### Analysis Question 1:
 How does the championship team compare to the rest of the playoff teams? Create a linear regression line as well.
