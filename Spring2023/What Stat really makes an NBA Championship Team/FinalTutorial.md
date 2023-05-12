@@ -18,7 +18,7 @@ Download the following playoff data:
 Place all data files into the same folder as your python notebook.
 
 ## Part 1: Data scraping and preparation
-Step 1: Scrape data from each of the past 3 NBA playoff seasons
+### Step 1: Scrape data from each of the past 3 NBA playoff seasons
 Use Python to scrape all team statistics from the past 3 NBA playoff.
 
 ```
@@ -38,13 +38,19 @@ Here is a sample output from the 2020 Playoffs:
 
 Repeat for the 2021 and 2022 playoff seasons.
 
-Step 2: Display the data
+### Step 2: Data Visualization
 Create a bar graph using three point percentage of each of the 16 playoff teams for each year we're observing. Observe the champion of that year by creating some type of destinction in its bar on the graph. 
 
 Do the same thing with ORB (Offensive Rebounds), FG (Field Goal %), TOV (Turnovers), Points, and PF (Personal Fouls)
 
 This image is prior to finding the linear regression line, that should be plotted after displaying the data in the image. 
-![3pt Percent Output](https://github.com/foluse/UMD/assets/76791730/7e4634a1-36dd-4399-a43e-1471db3f7bbb)
+![2020 3pt percentage](https://github.com/foluse/UMD/assets/76791730/7c9c4dd4-fff0-4d5c-90d0-2e58f80fb47d)
+
+### Question 1: What is a general trend you notice about the data?
+### Question 2: Looking at the data, create an interpretation for the pattern you noted for the previous question. For example, turnovers in each year decrease as we supposedly go down in ranking (meaning the supposed "best team" has the most turnovers)?
+
+## Part 2: Regression and Analysis
+Now let's look at the data with a fitted regression line for each scatter plot to see trends in various statistics for each of the last three playoff years.
 
 ### Analysis Question 1:
 How does the championship team compare to the rest of the playoff teams? Create a linear regression line as well.
