@@ -11,7 +11,7 @@ We will be analyzing data from playoff teams only. Our data will be gathered fro
 
 
 Download the following playoff data:
-[2020_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466320/2020_Playoff_Stats.csv)
+[2020_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466422/2020_Playoff_Stats.csv)
 [2021_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466321/2021_Playoff_Stats.csv)
 [2022_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466322/2022_Playoff_Stats.csv)
 
