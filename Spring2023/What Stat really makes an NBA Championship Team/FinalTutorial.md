@@ -1,5 +1,5 @@
 # What Stat really makes an NBA Championship Team
-### Group Members: Fiyin Oluseye, Amara Ihediohanma, Roger Thibaudeau, Sean Sweeney
+### Group Members: Fiyin Oluseye, Amara Ihediohanma, Roger Thibaudeau
 
 Through this tutorial you will apply data wrangling and exploratory data analysis skills to NBA data.
 Our main focus is to determine which statistics serve as the most reliable indicators of a playoff team's chances of winning the championship.
@@ -11,9 +11,10 @@ We will be analyzing data from playoff teams only. Our data will be gathered fro
 
 
 Download the following playoff data:
-[2020_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11448895/2020_Playoff_Stats.csv)
-[2021_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11448896/2021_Playoff_Stats.csv)
-[2022_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11448897/2022_Playoff_Stats.csv)
+[2020_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466320/2020_Playoff_Stats.csv)
+[2021_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466321/2021_Playoff_Stats.csv)
+[2022_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466322/2022_Playoff_Stats.csv)
+
 
 Place all data files into the same folder as your python notebook.
 
@@ -64,9 +65,12 @@ Show the regression values for each statistic and determine the "most valuable
 
 ## Part 3: Application to Current Season
 Now, let's choose the statistic and apply them to the new data set for the current season.
+
+Download the playoff data for the 2023 playoff season:
+[2023_Playoff_Stats.csv](https://github.com/foluse/UMD/files/11466327/2023_Playoff_Stats.csv)
+
 Create a graph based on this statistic for the teams in the playoffs for 2023.
 
 #### Question 7: Which team based on this statistic is most likely to win the NBA Championship in 2023?
 #### Question 8: How well did this team do in the 2023 playoffs? (At the time of submission: Are they still in contention for the 2023 NBA Championship?)
-
 
