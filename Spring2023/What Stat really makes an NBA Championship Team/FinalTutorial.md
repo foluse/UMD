@@ -55,10 +55,18 @@ Now let's look at the data with a fitted regression line. For each statistic, cr
 ![output](https://github.com/foluse/UMD/assets/76791730/f8a1bef1-d249-47f2-8c53-83270fc3b72d)
 
 #### Question 3: Now looking at the regression lines, what can we verify about the comments we made in the previous part? 
-#### Question 4: How do you think we can we determine the most valuable statistic (guess)?
+#### Question 4: What are some ideas on how we can determine the best statistic? (Hint: p-values)
+The p-value is a very relevant statistic in proving or disproving our null hypothesis. Find the p-value for each stat for the three playoff seasons.
 
+Show the regression values for each statistic and determine the "most valuable
+#### Question 5: What do you notice? Make clear observations about the data.
+#### Question 6: What statistic seems to be the most valuable?
 
-### Analysis Question 1:
-How does the championship team compare to the rest of the playoff teams? Create a linear regression line as well.
+## Part 3: Application to Current Season
+Now, let's choose the statistic and apply them to the new data set for the current season.
+Create a graph based on this statistic for the teams in the playoffs for 2023.
+
+#### Question 7: Which team based on this statistic is most likely to win the NBA Championship in 2023?
+#### Question 8: How well did this team do in the 2023 playoffs? (At the time of submission: Are they still in contention for the 2023 NBA Championship?)
 
 
